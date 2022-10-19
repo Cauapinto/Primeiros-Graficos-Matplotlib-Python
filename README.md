@@ -1,2 +1,2 @@
-# Primeiros-Graficos-Matplotlib-Python
+# Primeiros-Graficos-Matplotlib-Python 👨🏿‍💻💻📈
 Python para Data Science - Alura
